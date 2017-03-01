@@ -1,0 +1,411 @@
+@media screen and (max-width:1400px) {
+  .enlacesHome > div > div a div > p {
+    font-size: 20px;
+  }
+
+  .enlacesHome .divWhite {
+    width: 40px;
+  }
+
+  .enlacesHome > div > div:hover .divBlue span {
+    height: 70px;
+  }
+}
+
+@media screen and (max-width:1200px) {
+  .textBox2col {
+    width: 70%;
+    padding: 30px 50px 30px 50px;
+    margin-bottom: 40px;
+  }
+
+  .blocky {
+    width: 70%;
+  }
+
+  .enlacesHome > div {
+    width: 70%;
+  }
+
+  .textBox1col > div {
+    width: 70%;
+  }
+
+  .serviciosEnsayo {
+    width: 70%;
+    padding: 30px 50px 30px 50px;
+    margin-bottom: 30px;
+  }
+
+  .textBox1colImg {
+    width: 70%;
+    padding: 30px 50px 30px 50px;
+  }
+
+  .textBox1colImg .titleTextBox p {
+    font-size: 22px;
+    margin-bottom: 5px;
+  }
+
+  .textBox1colImg .titleTextBox div {
+    height: 10px;
+  }
+
+  .textContacto {
+    width: 70%;
+  }
+
+  .textBox1col > div {
+    margin-top: 40px;
+  }
+
+  .textBox1col > div h1 {
+    margin-bottom: 15px;
+  }
+
+  .textBox2col .titleTextBox p {
+    font-size: 22px;
+    margin-bottom: 5px;
+  }
+
+  .textBox2col .titleTextBox div {
+    height: 10px;
+  }
+
+  .textBox2col .titleTextBox {
+    margin-bottom: 20px;
+  }
+
+  .textBox2col .textBox p {
+    font-size: 13px;
+  }
+
+  .textBox2col .textBox h2 {
+    font-size: 14px;
+  }
+
+  .serviciosEnsayo .titleTextBox p {
+    font-size: 22px;
+    margin-bottom: 5px;
+  }
+
+  .blocky > div {
+    padding: 20px 50px 20px 50px;
+  }
+
+  .serviciosEnsayo .titleTextBox div {
+    height: 10px;
+  }
+
+  .serviciosImg > div h3 {
+    font-size: 12px;
+  }
+
+  .serviciosImg > div p {
+    font-size: 11px;
+    line-height: 12px;
+  }
+
+  .textContacto #btn-enviar {
+    height: 30px;
+  }
+}
+
+@media screen and (max-width:1023px) {
+  #dl-menu {
+    display: block;
+  }
+
+  .menu-pri {
+    display: none;
+  }
+
+  .header {
+    height: 50px;
+  }
+
+  .logo-tronex {
+    padding: 5px 15px 5px 15px;
+    height: 50px;
+    width: auto;
+  }
+
+  .logo-tronex img {
+    width: auto;
+    height: 40px;
+  }
+
+  .blocky {
+    width: 80%;
+  }
+
+  .blocky > div {
+    padding: 20px 30px 20px 30px;
+  }
+
+  .textoSlider-bold {
+    font-size: 20px;
+  }
+
+  .enlacesHome > div {
+    width: 80%;
+  }
+
+  .enlacesHome > div > div a div > p {
+    font-size: 18px;
+    margin-bottom: 0;
+  }
+
+  .enlacesHome .divWhite {
+    height: 5px;
+  }
+
+  .textBox1col > div {
+    margin-top: 25px;
+    width: 80%;
+  }
+
+  .textBox1col > div h1 {
+    font-size: 20px;
+    margin-bottom: 10px;
+  }
+
+  .textBox2col {
+    width: 80%;
+    padding: 20px 30px 20px 30px;
+  }
+
+  .textBox2col .titleTextBox p {
+    font-size: 20px;
+    margin-bottom: 0;
+  }
+
+  .textBox2col .titleTextBox div {
+    height: 5px;
+  }
+
+  .textBox2col .textBox p {
+    line-height: 15px;
+  }
+
+  .serviciosEnsayo {
+    width: 80%;
+    padding: 20px 30px 20px 30px;
+    margin-bottom: 20px;
+  }
+
+  .serviciosEnsayo .titleTextBox p {
+    font-size: 20px;
+    margin-bottom: 0;
+  }
+
+  .serviciosEnsayo .titleTextBox div {
+    height: 5px;
+  }
+
+  .serviciosImg > div h3 {
+    font-size: 11px;
+  }
+
+  .serviciosEnsayo .titleTextBox {
+    margin-bottom: 20px;
+  }
+
+  .textBox1colImg {
+    width: 80%;
+    padding: 20px 30px 20px 30px;
+  }
+
+  .textBox1colImg .titleTextBox p {
+    font-size: 20px;
+    margin-bottom: 0;
+  }
+
+  .textBox1colImg .titleTextBox div {
+    height: 5px;
+  }
+
+  .textBox1colImg .textImg p {
+    margin-top: 10px;
+  }
+
+  .textBox1colImg .titleTextBox {
+    margin-bottom: 15px;
+  }
+
+  .textContacto {
+    width: 80%;
+    padding: 20px 30px 20px 30px;
+  }
+
+  .enlacesHome > div > div a > div {
+    bottom: 5px;
+  }
+
+  .enlacesHome > div > div .divBlue span {
+    height: 40px;
+    width: 100%;
+  }
+
+  .enlacesHome > div > div:hover .divBlue span {
+    height: 40px;
+  }
+}
+
+@media screen and (max-width:979px) {
+  .cont-slider {
+    height: 400px;
+  }
+}
+
+@media screen and (max-width:767px) {
+  body {
+    padding-left: 0px !important;
+    padding-right: 0px !important;
+  }
+
+  .cont-slider {
+    height: 300px;
+  }
+
+  .blocky {
+    width: 90%;
+  }
+
+  .blocky > div {
+    padding: 15px 20px 15px 20px;
+  }
+
+  .textoSlider-light {
+    font-size: 12px;
+  }
+
+  .textoSlider-bold {
+    font-size: 16px;
+  }
+
+  .enlacesHome > div {
+    width: 90%;
+  }
+
+  .textBox2col {
+    width: 90%;
+    padding: 15px 20px 15px 20px;
+  }
+
+  .textBox2col .titleTextBox {
+    margin-bottom: 10px;
+  }
+
+  .textBox2col .titleTextBox p {
+    font-size: 18px;
+  }
+
+  .serviciosEnsayo {
+    width: 90%;
+    padding: 15px 20px 15px 20px;
+  }
+
+  .serviciosImg > div {
+    width: 50%;
+  }
+
+  .serviciosEnsayo .titleTextBox p {
+    font-size: 18px;
+  }
+
+  .textBox1colImg {
+    width: 90%;
+    padding: 15px 20px 15px 20px;
+  }
+
+  .textContacto {
+    width: 90%;
+    padding: 15px 20px 15px 20px;
+  }
+
+  .textContacto form {
+    display: block;
+    width: 100%;
+  }
+
+  .textContacto > div:last-child {
+    display: block;
+    width: 100%;
+    padding-left: 0;
+    margin-top: 80px;
+    text-align: center;
+  }
+}
+
+@media screen and (max-width:639px)  {
+
+}
+
+@media screen and (max-width:479px) {
+  footer {
+    padding:15px 15px 20px 25px;
+  }
+
+  .par1Footer {
+    background-image: none;
+  }
+
+  .par1Footer p {
+    display: block;
+    margin: 0 auto;
+    padding: 0;
+    text-align: center;
+  }
+
+  .par1Footer img {
+    float: none;
+    display: block;
+    margin: 0 auto;
+  }
+
+  .textFooter p {
+    font-size: 10px;
+  }
+
+  .textFooter a {
+    font-size: 8px;
+  }
+
+  footer > div:nth-child(2) {
+    padding-right: 20px;
+  }
+
+  footer > div:nth-child(3) {
+    margin-left: 20px;
+  }
+
+  .enlacesHome > div > div {
+    display: block;
+    width: 100%;
+  }
+
+  .textBox2col .textBox {
+    display: block;
+    width: 100%;
+    margin-right: 0;
+  }
+
+  .textBox2col {
+    padding: 10px;
+  }
+
+  .serviciosEnsayo {
+    padding: 10px;
+  }
+
+  .serviciosImg > div {
+    width: 100%;
+  }
+
+  .textBox1colImg {
+    padding: 10px;
+  }
+
+
+}
